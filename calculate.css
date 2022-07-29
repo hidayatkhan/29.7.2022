@@ -1,0 +1,14 @@
+body{
+    background: url(zakat.jpg);
+    background-size: cover;
+    text-align: center;
+
+    
+    width: 95%;
+    
+}
+
+button:hover{
+    color:white;
+    background-color: blueviolet;
+}    
